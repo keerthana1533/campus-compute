@@ -2,3 +2,5 @@ build/
 campuscompute
 *.o
 *.log
+*:Zone.Identifier
+*:Zone.Identifier
